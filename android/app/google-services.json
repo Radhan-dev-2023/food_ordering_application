@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "623097487556",
+    "firebase_url": "https://alldine-bcd03-default-rtdb.firebaseio.com",
+    "project_id": "alldine-bcd03",
+    "storage_bucket": "alldine-bcd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623097487556:android:8e3bb421d6c697e191a991",
+        "android_client_info": {
+          "package_name": "com.alldine.hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwMNOnyvvi1J8OwW3fDefkTyoAogSb7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
